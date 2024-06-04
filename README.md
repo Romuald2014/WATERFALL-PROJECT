@@ -1,5 +1,5 @@
 # Investigating Sales Forecasts: Cracking the Code with Waterfall Charts – Your Step-by-Step Guide to Mastering the Madness
-# This project demonstrates how to analyze sales forecasts using waterfall charts. By leveraging CRM data, we provide a detailed, step-by-step guide to mastering sales forecasting and pipeline analysis. Ideal for data analysts, sales teams, and anyone interested in making data-driven decisions.
+## This project demonstrates how to analyze sales forecasts using waterfall charts. By leveraging CRM data, we provide a detailed, step-by-step guide to mastering sales forecasting and pipeline analysis. Ideal for data analysts, sales teams, and anyone interested in making data-driven decisions.
 
 ## Introduction
 This project focuses on using a Python Jupyter notebook to perform a detailed analysis of sales forecasts using waterfall charts. The aim is to help you understand changes in your sales pipeline and make data-driven decisions.
